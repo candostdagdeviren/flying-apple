@@ -1,4 +1,6 @@
-Just to keep track of nice blog posts and new announcements from Apple
+# Flying Apple
+
+Sick of bookmarks in browser. So I want to keep track of nice blog posts and news related to Swift, Objective-C and Apple products in here.
 
 Categorized with emojis.
 
