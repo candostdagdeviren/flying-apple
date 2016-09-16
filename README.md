@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Offering Subscriptions by Apple](https://developer.apple.com/app-store/subscriptions/) - 16.09.2016 - 📱
 - [Auto Layout and Alignment Rectangles](http://useyourloaf.com/blog/auto-layout-and-alignment-rectangles/) - 16.09.2016 - 🔶3
 - [It's Now or Never](http://ericasadun.com/2016/09/06/its-now-or-never/) - 16.09.2016 - 🔶3
 - [Swift 3.0 Released!](https://swift.org/blog/swift-3-0-released/) - 16.09.2016 - 🔶
