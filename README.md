@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Getting Ready for App Transport Security in 2017](https://nabla-c0d3.github.io/blog/2016/08/14/ats-enforced-2017/) - 16.09.2016 - 📱
 - [App Store Optimization in 7 steps](http://www.littlemsmobile.com/make-your-ios-app-successful-in-the-app-store-aso-in-7-steps/) - 16.09.2016 - 📱 🎯
 - [Notifications in iOS 10](https://swifting.io/blog/2016/08/22/23-notifications-in-ios-10/) - 16.09.2016 - 📱 🔶
 - [Xcode Visual Memory Debugger](http://useyourloaf.com/blog/xcode-visual-memory-debugger) - 16.09.2016 - 🛠
