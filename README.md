@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [How to generate haptic feedback with UIFeedbackGenerator](https://www.hackingwithswift.com/example-code/uikit/how-to-generate-haptic-feedback-with-uifeedbackgenerator) - 16.09.2016 - 🔶 📱
 - [The Savvy App Store Submission Checklist](https://quip.com/FtjnAWlMMnJS) - 16.09.2016 - 📱
 - [Migrating Code Signing Configurations to Xcode 8](https://pewpewthespells.com/blog/migrating_code_signing.html) - 16.09.2016 - 📱 🛠
 - [A (mostly) comprehensive list of Swift 3.0 and 2.3 changes](https://buildingvts.com/a-mostly-comprehensive-list-of-swift-3-0-and-2-3-changes-193b904bb5b1#.rtu93uihd) - 16.09.2016 - 🔶
