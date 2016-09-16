@@ -13,6 +13,7 @@ Categorized with emojis.
 
 # Posts
 
+- [IB Free: Living Without Interface Builder and Loving It](https://www.raizlabs.com/dev/2016/08/ib-free-living-without-interface-builder) - 16.09.2016 - 🔶
 - [Swift App Bundle Sizes - Davit Owens](http://owensd.io/blog/swift-app-size-bundles/) - 29.08.2016 - 🔶
 - [Structs and Mutation in Swift - Chris Eidhof](http://chris.eidhof.nl/post/structs-and-mutation-in-swift/) - 26.08.2016 - 🔶3
 - [Using Redux with MVVM in iOS - Goksel Koksal](https://medium.com/@gokselkoksal/using-redux-with-mvvm-on-ios-18212454d676#.mm25yv5tl) - 26.08.2016 - 📱
