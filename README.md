@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [It's Now or Never](http://ericasadun.com/2016/09/06/its-now-or-never/) - 16.09.2016 - 🔶3
 - [Swift 3.0 Released!](https://swift.org/blog/swift-3-0-released/) - 16.09.2016 - 🔶
 - [How to Unit test your Network Layer in iOS](http://hoangtran.me/ios/testing/2016/09/12/unit-test-network-layer-in-ios/) - 16.09.2016 - 🔶 📱
 - [Working with JSON in Swift by Apple](https://developer.apple.com/swift/blog/?id=37) - 16.09.2016 - 🔶
