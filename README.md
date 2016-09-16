@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Escaping and Nonescaping Closures in Swift 3](https://swiftunboxed.com/lang/closures-escaping-noescape-swift3) - 16.09.2016 - 🔶3
 - [How to generate haptic feedback with UIFeedbackGenerator](https://www.hackingwithswift.com/example-code/uikit/how-to-generate-haptic-feedback-with-uifeedbackgenerator) - 16.09.2016 - 🔶 📱
 - [The Savvy App Store Submission Checklist](https://quip.com/FtjnAWlMMnJS) - 16.09.2016 - 📱
 - [Migrating Code Signing Configurations to Xcode 8](https://pewpewthespells.com/blog/migrating_code_signing.html) - 16.09.2016 - 📱 🛠
