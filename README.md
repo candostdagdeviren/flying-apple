@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [The Savvy App Store Submission Checklist](https://quip.com/FtjnAWlMMnJS) - 16.09.2016 - 📱
 - [Migrating Code Signing Configurations to Xcode 8](https://pewpewthespells.com/blog/migrating_code_signing.html) - 16.09.2016 - 📱 🛠
 - [A (mostly) comprehensive list of Swift 3.0 and 2.3 changes](https://buildingvts.com/a-mostly-comprehensive-list-of-swift-3-0-and-2-3-changes-193b904bb5b1#.rtu93uihd) - 16.09.2016 - 🔶
 - [Getting Ready for App Transport Security in 2017](https://nabla-c0d3.github.io/blog/2016/08/14/ats-enforced-2017/) - 16.09.2016 - 📱
