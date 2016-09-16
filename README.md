@@ -10,10 +10,12 @@ Categorized with emojis.
  * watchOS - ⌚
  * macOS - 🖥
  * Xcode - 🛠
+ * Marketing - 🎯
  * Apple investments, stocks, business decisions etc. - 💲
 
 # Posts
 
+- [App Store Optimization in 7 steps](http://www.littlemsmobile.com/make-your-ios-app-successful-in-the-app-store-aso-in-7-steps/) - 16.09.2016 - 📱 🎯
 - [Notifications in iOS 10](https://swifting.io/blog/2016/08/22/23-notifications-in-ios-10/) - 16.09.2016 - 📱 🔶
 - [Xcode Visual Memory Debugger](http://useyourloaf.com/blog/xcode-visual-memory-debugger) - 16.09.2016 - 🛠
 - [IB Free: Living Without Interface Builder and Loving It](https://www.raizlabs.com/dev/2016/08/ib-free-living-without-interface-builder) - 16.09.2016 - 🔶
