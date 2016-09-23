@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Swift 3 and Declarative Programming](https://possiblemobile.com/2016/09/swift-3-declarative-programming/) - 23.09.2016 - 📱🔶
 - [Pushing the Envelope with iOS 10 Notifications - Realm](https://realm.io/news/tryswift-ellen-shapiro-pushing-envelope-ios-10-notifications/) - 23.09.2016 - 📱🔶
 - [Handling Dates with Swift 3](http://dev.iachieved.it/iachievedit/handling-dates-with-swift-3-0/) - 23.09.2016 - 🔶3
 - [Function Naming in Swift 3](http://inaka.net/blog/2016/09/16/function-naming-in-swift-3/) - 19.09.2016 - 🔶3
