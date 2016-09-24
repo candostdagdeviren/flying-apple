@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [openURL Deprecated in iOS10](http://useyourloaf.com/blog/openurl-deprecated-in-ios10/) - 24.09.2016 - 📱
 - [Swift API Design Guidelines](https://swift.org/documentation/api-design-guidelines/) - 23.09.2016 - 🔶
 - [Swift 3 and Declarative Programming](https://possiblemobile.com/2016/09/swift-3-declarative-programming/) - 23.09.2016 - 📱🔶
 - [Pushing the Envelope with iOS 10 Notifications - Realm](https://realm.io/news/tryswift-ellen-shapiro-pushing-envelope-ios-10-notifications/) - 23.09.2016 - 📱🔶
