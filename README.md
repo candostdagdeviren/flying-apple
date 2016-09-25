@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Memory Graph Debugger Tips](http://inessential.com/2016/09/22/memory_graph_debugger_tips) - 25.09.2016 - 🛠
 - [openURL Deprecated in iOS10](http://useyourloaf.com/blog/openurl-deprecated-in-ios10/) - 24.09.2016 - 📱
 - [Swift API Design Guidelines](https://swift.org/documentation/api-design-guidelines/) - 23.09.2016 - 🔶
 - [Swift 3 and Declarative Programming](https://possiblemobile.com/2016/09/swift-3-declarative-programming/) - 23.09.2016 - 📱🔶
