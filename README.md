@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Preparing Your iOS App for Extensions](https://www.raizlabs.com/dev/2016/09/preparing-ios-app-for-extensions/) - 28.09.2016 - 📱
 - [Token Authentication Now Available for Push Notifications - Apple](https://developer.apple.com/news/?id=09222016a) - 25.09.2016 - 📱⌚🖥
 - [New subscriptions data and reports are now available - Apple](https://itunespartner.apple.com/en/apps/news/5721783) - 25.09.2016 - 💲
 - [Memory Graph Debugger Tips](http://inessential.com/2016/09/22/memory_graph_debugger_tips) - 25.09.2016 - 🛠
