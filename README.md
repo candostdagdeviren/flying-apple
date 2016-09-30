@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Swift 3 Access Controls](http://useyourloaf.com/blog/swift-3-access-controls/) - 30.09.2016 - 🔶3
 - [Preparing Your iOS App for Extensions](https://www.raizlabs.com/dev/2016/09/preparing-ios-app-for-extensions/) - 28.09.2016 - 📱
 - [Token Authentication Now Available for Push Notifications - Apple](https://developer.apple.com/news/?id=09222016a) - 25.09.2016 - 📱⌚🖥
 - [New subscriptions data and reports are now available - Apple](https://itunespartner.apple.com/en/apps/news/5721783) - 25.09.2016 - 💲
