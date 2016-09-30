@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Swifty Delegates](http://khanlou.com/2016/09/swifty-delegates/) - 30.09.2016 - 🔶3
 - [Swift 3 Access Controls](http://useyourloaf.com/blog/swift-3-access-controls/) - 30.09.2016 - 🔶3
 - [Preparing Your iOS App for Extensions](https://www.raizlabs.com/dev/2016/09/preparing-ios-app-for-extensions/) - 28.09.2016 - 📱
 - [Token Authentication Now Available for Push Notifications - Apple](https://developer.apple.com/news/?id=09222016a) - 25.09.2016 - 📱⌚🖥
