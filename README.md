@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Swift Option Sets](https://oleb.net/blog/2016/09/swift-option-sets/) - 30.09.2016 - 🔶3
 - [Updating NSURLSession Calls to Swift 3.0](https://grokswift.com/updating-nsurlsession-to-swift-3-0/) - 30.09.2016 - 🔶3
 - [Swifty Delegates](http://khanlou.com/2016/09/swifty-delegates/) - 30.09.2016 - 🔶3
 - [Swift 3 Access Controls](http://useyourloaf.com/blog/swift-3-access-controls/) - 30.09.2016 - 🔶3
