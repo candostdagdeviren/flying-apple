@@ -15,8 +15,9 @@ Categorized with emojis.
 
 # Posts
 
-- [App Groups and iMessage Extensions for iOS 10](http://tackmobile.com/blog/App-Groups-and-iMessage-Extensions-for-iOS-10.html) - 🔶 📱 
-- [Edge Cases with Background Downloads](http://benscheirman.com/2016/10/background-downloads/) - 📱
+- [Silicon Valley comes to Naples: Apple prepares to open Italian academy](https://www.theguardian.com/world/2016/oct/05/apple-academy-naples-italy-san-giovanni-tim-cook) - 06.10.2016 - 💲
+- [App Groups and iMessage Extensions for iOS 10](http://tackmobile.com/blog/App-Groups-and-iMessage-Extensions-for-iOS-10.html) - 06.10.2016 - 🔶 📱 
+- [Edge Cases with Background Downloads](http://benscheirman.com/2016/10/background-downloads/) - 06.10.2016 - 📱
 - [Realm Mobile Platform](https://realm.io/products/realm-mobile-platform/) - 04.10.2016 - 📱
 - [Search Ads Now Available](https://developer.apple.com/news/?id=09282016a) - 04.10.2016 - 📱 💲
 - [Swift Option Sets](https://oleb.net/blog/2016/09/swift-option-sets/) - 30.09.2016 - 🔶3
