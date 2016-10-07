@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Split View Controller Display Modes](http://useyourloaf.com/blog/split-view-controller-display-modes/) - 07.10.2016 - 📱 🔶
 - [Smooth Scrolling in Buffer for iOS: How (and Why) We Implemented AsyncDisplayKit](https://overflow.buffer.com/2016/10/04/implementing-asyncdisplaykit-within-buffer-ios/) - 07.10.2016 - 📱 🔷
 - [Silicon Valley comes to Naples: Apple prepares to open Italian academy](https://www.theguardian.com/world/2016/oct/05/apple-academy-naples-italy-san-giovanni-tim-cook) - 06.10.2016 - 💲
 - [App Groups and iMessage Extensions for iOS 10](http://tackmobile.com/blog/App-Groups-and-iMessage-Extensions-for-iOS-10.html) - 06.10.2016 - 🔶 📱 
