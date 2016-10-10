@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Updating Strings for Swift 3](http://useyourloaf.com/blog/updating-strings-for-swift-3/) - 10.10.2016 - 🔶3
 - [Strings in Swift 3](https://oleb.net/blog/2016/08/swift-3-strings/) - 07.10.2016 - 🔶3
 - [What Do You Do with Any?](https://makeapppie.com/2016/09/26/what-do-you-do-with-any) - 07.10.2016 - 🔶3
 - [Split View Controller Display Modes](http://useyourloaf.com/blog/split-view-controller-display-modes/) - 07.10.2016 - 📱 🔶
