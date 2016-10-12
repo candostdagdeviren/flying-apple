@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Learn how to integrate Siri with your app thanks to Apple SiriKit](http://www.ymedialabs.com/apple-sirikit/) - 12.10.2016 - 📱
 - [Real World Swift Performance](https://realm.io/news/real-world-swift-performance/) - 11.10.2016 - 🔶
 - [Updating Strings for Swift 3](http://useyourloaf.com/blog/updating-strings-for-swift-3/) - 10.10.2016 - 🔶3
 - [Strings in Swift 3](https://oleb.net/blog/2016/08/swift-3-strings/) - 07.10.2016 - 🔶3
