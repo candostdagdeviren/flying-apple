@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Optional Non-Escaping Closures](https://oleb.net/blog/2016/10/optional-non-escaping-closures/) - 13.10.2016 - 🔶3
 - [Learn how to integrate Siri with your app thanks to Apple SiriKit](http://www.ymedialabs.com/apple-sirikit/) - 12.10.2016 - 📱
 - [Real World Swift Performance](https://realm.io/news/real-world-swift-performance/) - 11.10.2016 - 🔶
 - [Updating Strings for Swift 3](http://useyourloaf.com/blog/updating-strings-for-swift-3/) - 10.10.2016 - 🔶3
