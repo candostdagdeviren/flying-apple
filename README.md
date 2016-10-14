@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Google Blockly for iOS](https://developers.googleblog.com/2016/10/blockly-for-ios.html) - 14.10.2016 - 📱
 - [Singletons](http://fatalerror.fm/episodes/2016/10/10/6-singletons) - 14.10.2016 - 🔶
 - [Slicing](http://khanlou.com/2016/10/slicing/) - 14.10.2016 - 🔶
 - [Optional Non-Escaping Closures](https://oleb.net/blog/2016/10/optional-non-escaping-closures/) - 13.10.2016 - 🔶3
