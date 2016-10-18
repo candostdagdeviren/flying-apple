@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [What do you do with Any?](https://makeapppie.com/2016/09/26/what-do-you-do-with-any/) - 18.10.2016 - 🔶3
 - [Event Delivery on iOS: Part 1](https://medium.com/bpxl-craft/event-delivery-on-ios-part-1-8e68b3a3f423#.gi88l2xmj) - 16.10.2016 - 📱
 - [Google Blockly for iOS](https://developers.googleblog.com/2016/10/blockly-for-ios.html) - 14.10.2016 - 📱
 - [Singletons](http://fatalerror.fm/episodes/2016/10/10/6-singletons) - 14.10.2016 - 🔶
