@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Closures Capture Semantics, Part 1: Catch them all!](http://alisoftware.github.io/swift/closures/2016/07/25/closure-capture-1/) - 19.10.2016 - 🔶
 - [Tips for Backwards Compatibility with iOS 10 Today Widgets](https://kristina.io/backwards-compatibility-with-ios-10-today-widgets/) - 19.10.2016 - 📱
 - [Measurement Basics](https://littlebitesofcocoa.com/276-measurement-basics) - 19.08.2016 - 🔶3
 - [What do you do with Any?](https://makeapppie.com/2016/09/26/what-do-you-do-with-any/) - 18.10.2016 - 🔶3
