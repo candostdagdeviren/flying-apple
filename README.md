@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Tips for Backwards Compatibility with iOS 10 Today Widgets](https://kristina.io/backwards-compatibility-with-ios-10-today-widgets/) - 19.10.2016 - 📱
 - [Measurement Basics](https://littlebitesofcocoa.com/276-measurement-basics) - 19.08.2016 - 🔶3
 - [What do you do with Any?](https://makeapppie.com/2016/09/26/what-do-you-do-with-any/) - 18.10.2016 - 🔶3
 - [Event Delivery on iOS: Part 1](https://medium.com/bpxl-craft/event-delivery-on-ios-part-1-8e68b3a3f423#.gi88l2xmj) - 16.10.2016 - 📱
