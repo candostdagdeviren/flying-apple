@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Speeding up Development Build Times With Conditional dSYM Generation](http://holko.pl/2016/10/18/dsym-debug/) - 21.10.2016 - 🛠
 - [Closures Capture Semantics, Part 1: Catch them all!](http://alisoftware.github.io/swift/closures/2016/07/25/closure-capture-1/) - 19.10.2016 - 🔶
 - [Tips for Backwards Compatibility with iOS 10 Today Widgets](https://kristina.io/backwards-compatibility-with-ios-10-today-widgets/) - 19.10.2016 - 📱
 - [Measurement Basics](https://littlebitesofcocoa.com/276-measurement-basics) - 19.08.2016 - 🔶3
