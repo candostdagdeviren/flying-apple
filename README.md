@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Whole-Module Optimization in Swift 3](https://swift.org/blog/whole-module-optimizations/) - 22.10.2016 - 🔶3
 - [Analysis of the Facebook.app for iOS](http://blog.timac.org/?p=1303) - 21.10.2016 - 📱
 - [Speeding up Development Build Times With Conditional dSYM Generation](http://holko.pl/2016/10/18/dsym-debug/) - 21.10.2016 - 🛠
 - [Closures Capture Semantics, Part 1: Catch them all!](http://alisoftware.github.io/swift/closures/2016/07/25/closure-capture-1/) - 19.10.2016 - 🔶
