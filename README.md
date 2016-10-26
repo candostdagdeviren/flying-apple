@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Generic Range Algorithms](https://oleb.net/blog/2016/10/generic-range-algorithms/) - 26.10.2016 - 🔶
 - [Server APIs Work Group](https://swift.org/blog/server-api-workgroup/) - 26.10.2016 - 🔶💲
 - [Testing UserDefaults](http://www.figure.ink/blog/2016/10/15/testing-userdefaults) - 26.10.2016 - 🔶
 - [Whole-Module Optimization in Swift 3](https://swift.org/blog/whole-module-optimizations/) - 22.10.2016 - 🔶3
