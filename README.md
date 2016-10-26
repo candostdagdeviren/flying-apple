@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Flowing Text Around Images With Exclusion Paths](https://littlebitesofcocoa.com/280-flowing-text-around-images-with-exclusion-paths) - 26.10.2016 - 🔶
 - [Generic Range Algorithms](https://oleb.net/blog/2016/10/generic-range-algorithms/) - 26.10.2016 - 🔶
 - [Server APIs Work Group](https://swift.org/blog/server-api-workgroup/) - 26.10.2016 - 🔶💲
 - [Testing UserDefaults](http://www.figure.ink/blog/2016/10/15/testing-userdefaults) - 26.10.2016 - 🔶
