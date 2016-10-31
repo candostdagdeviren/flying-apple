@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Swift Profiling](http://irace.me/swift-profiling) - 31.10.2016 - 🔶
 - [Enum Raw Values and Failable Initializers](http://useyourloaf.com/blog/enum-raw-values-and-failable-initializers/) - 30.10.2016 - 🔶
 - [Touch Bar Basics](https://littlebitesofcocoa.com/281-touch-bar-basics) - 30.10.2016 - 🔶🖥
 - [How to Do XCTestCase tearDown Wrong …and Right](http://qualitycoding.org/teardown/) - 26.10.2016 - 🔶
