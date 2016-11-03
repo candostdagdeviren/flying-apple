@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Unowned or Weak? Lifetime and Performance](https://www.uraimo.com/2016/10/27/unowned-or-weak-lifetime-and-performance/) - 🔶
 - [iOS 10 Link Preview API in WKWebView](https://webkit.org/blog/7016/ios-10-link-preview-api-in-wkwebview/) - 03.11.2016 - 🔶
 - [A Beginner’s Guide to Automated UI Testing in iOS](http://www.appcoda.com/automated-ui-test) - 03.11.2016 - 📱 🔶
 - [In-App Purchase Promo Codes Now Available - ](https://developer.apple.com/news/?id=10282016a) - 03.11.2016 - 💲
