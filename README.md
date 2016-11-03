@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [In-App Purchase Promo Codes Now Available - ](https://developer.apple.com/news/?id=10282016a) - 03.11.2016 - 💲
 - [Swift Profiling](http://irace.me/swift-profiling) - 31.10.2016 - 🔶
 - [Enum Raw Values and Failable Initializers](http://useyourloaf.com/blog/enum-raw-values-and-failable-initializers/) - 30.10.2016 - 🔶
 - [Touch Bar Basics](https://littlebitesofcocoa.com/281-touch-bar-basics) - 30.10.2016 - 🔶🖥
