@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Firebase Tutorial: Real-time Chat](https://www.raywenderlich.com/140836/firebase-tutorial-real-time-chat-2) - 03.11.2016 - 🔶
 - [iOS Security: Best Practices in Safeguarding User Data](https://www.codementor.io/ios/tutorial/ios-security-best-practice-safeguarding-user-data-in-ios) - 03.11.2016 - 📱
 - [How to Read the Swift Standard Library Source](https://oleb.net/blog/2016/10/swift-stdlib-source/) - 03.11.2016 - 🔶
 - [Useful details about underscore keyword in Swift](https://rainsoft.io/useful-details-about-underscore-keyword-in-swift/) - 🔶
