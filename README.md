@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [How to Read the Swift Standard Library Source](https://oleb.net/blog/2016/10/swift-stdlib-source/) - 03.11.2016 - 🔶
 - [Useful details about underscore keyword in Swift](https://rainsoft.io/useful-details-about-underscore-keyword-in-swift/) - 🔶
 - [Unowned or Weak? Lifetime and Performance](https://www.uraimo.com/2016/10/27/unowned-or-weak-lifetime-and-performance/) - 🔶
 - [iOS 10 Link Preview API in WKWebView](https://webkit.org/blog/7016/ios-10-link-preview-api-in-wkwebview/) - 03.11.2016 - 🔶
