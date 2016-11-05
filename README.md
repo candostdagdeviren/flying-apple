@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Understanding code signing for iOS apps](https://engineering.nodesagency.com/articles/iOS/Understanding-code-signing-for-iOS-apps/) - 05.11.2016
 - [Firebase Tutorial: Real-time Chat](https://www.raywenderlich.com/140836/firebase-tutorial-real-time-chat-2) - 03.11.2016 - 🔶
 - [iOS Security: Best Practices in Safeguarding User Data](https://www.codementor.io/ios/tutorial/ios-security-best-practice-safeguarding-user-data-in-ios) - 03.11.2016 - 📱
 - [How to Read the Swift Standard Library Source](https://oleb.net/blog/2016/10/swift-stdlib-source/) - 03.11.2016 - 🔶
