@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Date Math is Hard, Let's Do it Tomorrow](http://www.atomicbird.com/blog/date-math-is-hard-lets-do-it-tomorrow) - 13.11.2016 - 🔶
 - [Understanding code signing for iOS apps](https://engineering.nodesagency.com/articles/iOS/Understanding-code-signing-for-iOS-apps/) - 05.11.2016
 - [Firebase Tutorial: Real-time Chat](https://www.raywenderlich.com/140836/firebase-tutorial-real-time-chat-2) - 03.11.2016 - 🔶
 - [iOS Security: Best Practices in Safeguarding User Data](https://www.codementor.io/ios/tutorial/ios-security-best-practice-safeguarding-user-data-in-ios) - 03.11.2016 - 📱
