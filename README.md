@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Meaningful Composite Errors](https://medium.com/@IanKeen/meaningful-composite-errors-3146f191ff28#.fwusnwjfr) - 20.11.2016 - 🔶
 - [Better Xcode Run Script Build Phases](http://www.mokacoding.com/blog/better-build-phase-scripts/) - 13.11.2016 - 🛠
 - [Date Math is Hard, Let's Do it Tomorrow](http://www.atomicbird.com/blog/date-math-is-hard-lets-do-it-tomorrow) - 13.11.2016 - 🔶
 - [Understanding code signing for iOS apps](https://engineering.nodesagency.com/articles/iOS/Understanding-code-signing-for-iOS-apps/) - 05.11.2016
