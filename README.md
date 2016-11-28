@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Understanding Data Race Detection by Implementing it in Swift](http://blog.benjamin-encz.de/post/understanding-data-race-detection-by-implementing-in-swift) - 28.11.2016 - 🔶
 - [Meaningful Composite Errors](https://medium.com/@IanKeen/meaningful-composite-errors-3146f191ff28#.fwusnwjfr) - 20.11.2016 - 🔶
 - [Better Xcode Run Script Build Phases](http://www.mokacoding.com/blog/better-build-phase-scripts/) - 13.11.2016 - 🛠
 - [Date Math is Hard, Let's Do it Tomorrow](http://www.atomicbird.com/blog/date-math-is-hard-lets-do-it-tomorrow) - 13.11.2016 - 🔶
