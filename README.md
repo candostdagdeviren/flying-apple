@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Swift Snippets](https://medium.com/swift-snippets/swift-snippets-1e9a9779e024#.panrzi9va) - 11.12.2016 - 🔶
 - [Build Setting Reference aka Xcode Script variables](http://help.apple.com/xcode/mac/8.0/#/itcaec37c2a6) - 07.12.2016 - 🛠
 - [Protocol Oriented Programming is Not a Silver Bullet](http://chris.eidhof.nl/post/protocol-oriented-programming/) - 28.11.2016 - 🔶
 - [Understanding Data Race Detection by Implementing it in Swift](http://blog.benjamin-encz.de/post/understanding-data-race-detection-by-implementing-in-swift) - 28.11.2016 - 🔶
