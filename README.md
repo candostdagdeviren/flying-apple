@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Use New Awesome iOS Features While Maintaining Backward Compatibility](https://medium.com/swiftly-swift/use-new-awesome-ios-features-while-maintaining-backward-compatibility-24942d1a5ef2#.ns9c7cr8p) - 11.12.2016 - 🔶
 - [Swift Snippets](https://medium.com/swift-snippets/swift-snippets-1e9a9779e024#.panrzi9va) - 11.12.2016 - 🔶
 - [Build Setting Reference aka Xcode Script variables](http://help.apple.com/xcode/mac/8.0/#/itcaec37c2a6) - 07.12.2016 - 🛠
 - [Protocol Oriented Programming is Not a Silver Bullet](http://chris.eidhof.nl/post/protocol-oriented-programming/) - 28.11.2016 - 🔶
