@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Hiding Your Action and Share Extensions In Your Own Apps](https://pspdfkit.com/blog/2016/hiding-action-share-extensions-in-your-own-apps/) - 12.12.2016 - 🔶📱
 - [Guarding Against Long Compiles](http://khanlou.com/2016/12/guarding-against-long-compiles/) - 12.12.2016 - 🛠
 - [How to Prevent Memory Leaks in Swift Closures](http://blog.stablekernel.com/how-to-prevent-memory-leaks-in-swift-closures) - 11.12.2016 - 🔶
 - [Use New Awesome iOS Features While Maintaining Backward Compatibility](https://medium.com/swiftly-swift/use-new-awesome-ios-features-while-maintaining-backward-compatibility-24942d1a5ef2#.ns9c7cr8p) - 11.12.2016 - 🔶
