@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Swift Method Dispatch](https://www.raizlabs.com/dev/2016/12/swift-method-dispatch/) - 12.12.2016 - 🔶
 - [Hiding Your Action and Share Extensions In Your Own Apps](https://pspdfkit.com/blog/2016/hiding-action-share-extensions-in-your-own-apps/) - 12.12.2016 - 🔶📱
 - [Guarding Against Long Compiles](http://khanlou.com/2016/12/guarding-against-long-compiles/) - 12.12.2016 - 🛠
 - [How to Prevent Memory Leaks in Swift Closures](http://blog.stablekernel.com/how-to-prevent-memory-leaks-in-swift-closures) - 11.12.2016 - 🔶
