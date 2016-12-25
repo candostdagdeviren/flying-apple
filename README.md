@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Emptiness](http://khanlou.com/2016/10/emptiness/) - 25.12.2016 - 🔶3
 - [CollectionOfOne](https://swiftunboxed.com/open-source/CollectionOfOne/) - 12.12.2016 - 🔶
 - [Swift Method Dispatch](https://www.raizlabs.com/dev/2016/12/swift-method-dispatch/) - 12.12.2016 - 🔶
 - [Hiding Your Action and Share Extensions In Your Own Apps](https://pspdfkit.com/blog/2016/hiding-action-share-extensions-in-your-own-apps/) - 12.12.2016 - 🔶📱
