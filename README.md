@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Protocols are more than Bags of Syntax](https://oleb.net/blog/2016/12/protocols-have-semantics/) - 05.01.2017 - 🔶
 - [Profiling your Swift compilation times](http://irace.me/swift-profiling) - 25.12.2016 - 🔶
 - [Emptiness](http://khanlou.com/2016/10/emptiness/) - 25.12.2016 - 🔶3
 - [CollectionOfOne](https://swiftunboxed.com/open-source/CollectionOfOne/) - 12.12.2016 - 🔶
