@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [In-App Purchases in iOS With Swift 3](https://code.tutsplus.com/tutorials/in-app-purchase-tutorial-with-swift-3-ios-sdk--cms-27595) - 08.01.2017 - 🔶
 - [RxSwift Primer](https://www.caseyliss.com/2016/12/15/rxswift-primer-part-1) - 05.01.2017 - 🔶
 - [Protocols are more than Bags of Syntax](https://oleb.net/blog/2016/12/protocols-have-semantics/) - 05.01.2017 - 🔶
 - [Profiling your Swift compilation times](http://irace.me/swift-profiling) - 25.12.2016 - 🔶
