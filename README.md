@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Unsafe Swift: Using Pointers And Interacting With C](https://www.raywenderlich.com/148569/unsafe-swift) - 22.01.2017 - 🔶
 - [In-App Purchases in iOS With Swift 3](https://code.tutsplus.com/tutorials/in-app-purchase-tutorial-with-swift-3-ios-sdk--cms-27595) - 08.01.2017 - 🔶
 - [RxSwift Primer](https://www.caseyliss.com/2016/12/15/rxswift-primer-part-1) - 05.01.2017 - 🔶
 - [Protocols are more than Bags of Syntax](https://oleb.net/blog/2016/12/protocols-have-semantics/) - 05.01.2017 - 🔶
