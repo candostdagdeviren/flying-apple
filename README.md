@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Swift Evolution Status](https://apple.github.io/swift-evolution/) - 23.01.2017 - 🔶
 - [Identifying Side Effects Using Swift](https://medium.com/developermind/identifying-side-effects-using-swift-b1ce3a7950ae#.lsxjbvrix) - 23.01.2017 - 🔶
 - [Improving Optionals](http://www.russbishop.net/improving-optionals) - 23.01.2017 - 🔶
 - [Naming Things in Swift](https://ashfurrow.com/blog/naming-things-in-swift/) - 22.01.2017 - 🔶
