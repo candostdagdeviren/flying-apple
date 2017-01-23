@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Improving Optionals](http://www.russbishop.net/improving-optionals) - 23.01.2017 - 🔶
 - [Naming Things in Swift](https://ashfurrow.com/blog/naming-things-in-swift/) - 22.01.2017 - 🔶
 - [Generic allValues for enums](https://theswiftdev.com/2017/01/05/18-swift-gist-generic-allvalues-for-enums/) - 22.01.2017 - 🔶
 - [Crazy Fast Builds Using distcc](https://pspdfkit.com/blog/2017/crazy-fast-builds-using-distcc/) - 22.01.2017 - 🛠
