@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Pretty much every way to assign optionals](http://ericasadun.com/2017/01/25/pretty-much-every-way-to-assign-optionals/) - 05.02.2017 - 🔶
 - [Clean Code for Multiple Storyboards](https://medium.com/@gurdeep060289/clean-code-for-multiple-storyboards-c64eb679dbf6#.2in5u59n1) - 23.01.2017 - 🔶
 - [Swift Evolution Status](https://apple.github.io/swift-evolution/) - 23.01.2017 - 🔶
 - [Identifying Side Effects Using Swift](https://medium.com/developermind/identifying-side-effects-using-swift-b1ce3a7950ae#.lsxjbvrix) - 23.01.2017 - 🔶
