@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Faster Mix-and-Match Builds with Precompiled Bridging Headers](https://swift.org/blog/bridging-pch/) - 05.02.2017 - 🔶
 - [Additional Details on the New App Store Review Features](http://daringfireball.net/2017/01/new_app_store_review_features) - 05.02.2017 - 📱💲
 - [Pretty much every way to assign optionals](http://ericasadun.com/2017/01/25/pretty-much-every-way-to-assign-optionals/) - 05.02.2017 - 🔶
 - [Clean Code for Multiple Storyboards](https://medium.com/@gurdeep060289/clean-code-for-multiple-storyboards-c64eb679dbf6#.2in5u59n1) - 23.01.2017 - 🔶
