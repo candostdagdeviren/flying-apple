@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Waiting in XCTest](http://masilotti.com/xctest-waiting/) - 05.02.2017 - 🔶
 - [Understanding memory leaks in closures](https://medium.com/compileswift/understanding-memory-leaks-in-closures-48207214cba#.i9bthntz7) - 05.02.2017 - 🔶
 - [Faster Mix-and-Match Builds with Precompiled Bridging Headers](https://swift.org/blog/bridging-pch/) - 05.02.2017 - 🔶
 - [Additional Details on the New App Store Review Features](http://daringfireball.net/2017/01/new_app_store_review_features) - 05.02.2017 - 📱💲
