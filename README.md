@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [What's new in Swift 3.1](https://www.hackingwithswift.com/swift3-1) - 07.02.2017 - 🔶
 - [Waiting in XCTest](http://masilotti.com/xctest-waiting/) - 05.02.2017 - 🔶
 - [Understanding memory leaks in closures](https://medium.com/compileswift/understanding-memory-leaks-in-closures-48207214cba#.i9bthntz7) - 05.02.2017 - 🔶
 - [Faster Mix-and-Match Builds with Precompiled Bridging Headers](https://swift.org/blog/bridging-pch/) - 05.02.2017 - 🔶
