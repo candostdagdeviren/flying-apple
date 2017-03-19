@@ -15,6 +15,7 @@ Categorized with emojis.
 
 # Posts
 
+- [The Recipe for Singletons Removal](http://albertodebortoli.com/blog/2017/03/15/The-recipe-for-Singletons-removal/) - 19.03.2017 - 🔶 🔹
 - [Common unit testing techniques on iOS](http://www.marisibrothers.com/2017/03/common-unit-testing-techniques-on-ios.html) - 19.03.2017 - 🔶 📱
 - [Modern Attributed Strings with Attributed](https://littlebitesofcocoa.com/293-modern-attributed-strings-with-attributed) - 08.02.2017 - 🔶
 - [What's new in Swift 3.1](https://www.hackingwithswift.com/swift3-1) - 07.02.2017 - 🔶
