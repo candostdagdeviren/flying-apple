@@ -14,7 +14,7 @@ Categorized with emojis.
  * Apple investments, stocks, business decisions etc. - 💲
 
 # Posts
-
+- [Avoiding primitive obsession in Swift](https://medium.com/compileswift/avoiding-primitive-obsession-in-swift-5325b65d521e) - 01.04.2017 - 🔶
 - [System Level Breakpoints in Swift](http://indiestack.com/2017/03/system-level-breakpoints-in-swift/) - 26.03.2017 - 🔶
 - [Kitura/iOS: Running a Web Server on your iPhone](https://developer.ibm.com/swift/2017/03/13/kitura-ios/) - 20.03.2017 - 🔶
 - [The Recipe for Singletons Removal](http://albertodebortoli.com/blog/2017/03/15/The-recipe-for-Singletons-removal/) - 19.03.2017 - 🔶 🔹
