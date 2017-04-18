@@ -16,7 +16,7 @@ Categorized with emojis.
 # Posts
 - [100% Coverage of Edge Cases: How to Safely Parse JSON](http://qualitycoding.org/parse-json-edge-cases/) - 17.04.2017 - 🔶
 - [TestFlight Update from Apple](https://developer.apple.com/news/?id=04112017a) - 17.04.2017 - 💲
-- [You Probably Don't Want enumerated](You Probably Don't Want enumerated) - 01.04.2017 - 🔶
+- [You Probably Don't Want enumerated](http://khanlou.com/2017/03/you-probably-don't-want-enumerated/) - 01.04.2017 - 🔶
 - [Avoiding primitive obsession in Swift](https://medium.com/compileswift/avoiding-primitive-obsession-in-swift-5325b65d521e) - 01.04.2017 - 🔶
 - [System Level Breakpoints in Swift](http://indiestack.com/2017/03/system-level-breakpoints-in-swift/) - 26.03.2017 - 🔶
 - [Kitura/iOS: Running a Web Server on your iPhone](https://developer.ibm.com/swift/2017/03/13/kitura-ios/) - 20.03.2017 - 🔶
