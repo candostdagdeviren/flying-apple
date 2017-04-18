@@ -9,11 +9,13 @@ Categorized with emojis.
  * iOS - 📱
  * watchOS - ⌚
  * macOS - 🖥
+ * Server Side - 🔭
  * Xcode - 🛠
  * Marketing - 🎯
  * Apple investments, stocks, business decisions etc. - 💲
 
 # Posts
+- [How to create a Telegram bot with Swift using Vapor on Ubuntu / macOS](https://www.fabriziobrancati.com/posts/how-create-telegram-bot-swift-vapor-ubuntu-macos) - 18.04.2017 - 🔶 🔭
 - [100% Coverage of Edge Cases: How to Safely Parse JSON](http://qualitycoding.org/parse-json-edge-cases/) - 17.04.2017 - 🔶
 - [TestFlight Update from Apple](https://developer.apple.com/news/?id=04112017a) - 17.04.2017 - 💲
 - [You Probably Don't Want enumerated](http://khanlou.com/2017/03/you-probably-don't-want-enumerated/) - 01.04.2017 - 🔶
@@ -133,4 +135,3 @@ Categorized with emojis.
 - [MVVM is Quite Okay at What It Is Supposed to Do - Christian Tietze](https://christiantietze.de/posts/2016/08/mvvm-is-okay-for-what-it-does/) - 24.08.2016 - 📱
 - [Pattern Matching in Swift - Cosmin Pupaza](https://www.raywenderlich.com/134844/pattern-matching-in-swift) - 24.08.2016 - 🔶3
 - [Advanced & Practical Enum Usage in Swift - Benedikt Terhechte](https://appventure.me/2015/10/17/advanced-practical-enum-examples/) - 23.08.2016 - 🔶 2.2
-
