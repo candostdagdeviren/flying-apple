@@ -15,6 +15,7 @@ Categorized with emojis.
  * Apple investments, stocks, business decisions etc. - 💲
 
 # Posts
+- [CALayer And Auto Layout With Swift](https://marcosantadev.com/calayer-auto-layout-swift/) 0 26.06.2017 - 🔶📱
 - [Screen Edges in iOS 11](https://littlebitesofcocoa.com/310-screen-edges-in-ios-11) - 26.06.2017 - 🔶📱
 - [Ultimate Guide to JSON Parsing With Swift 4](http://benscheirman.com/2017/06/ultimate-guide-to-json-parsing-with-swift-4/) - 26.06.2017 - 🔶4
 - [How to create a Telegram bot with Swift using Vapor on Ubuntu / macOS](https://www.fabriziobrancati.com/posts/how-create-telegram-bot-swift-vapor-ubuntu-macos) - 18.04.2017 - 🔶 🔭
