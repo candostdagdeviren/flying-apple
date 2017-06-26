@@ -15,6 +15,7 @@ Categorized with emojis.
  * Apple investments, stocks, business decisions etc. - 💲
 
 # Posts
+- [SSL certificate pinning in iOS applications](https://www.bugsee.com/blog/ssl-certificate-pinning-in-mobile-applications/) - 26.06.2017 - 🔶📱
 - [How to open Deep Links, Notifications and Shortcuts](https://medium.com/ios-os-x-development/ios-how-to-open-deep-links-notifications-and-shortcuts-253fb38e1696) - 26.06.2017 - 🔶📱
 - [CALayer And Auto Layout With Swift](https://marcosantadev.com/calayer-auto-layout-swift/) - 26.06.2017 - 🔶📱
 - [Screen Edges in iOS 11](https://littlebitesofcocoa.com/310-screen-edges-in-ios-11) - 26.06.2017 - 🔶📱
