@@ -15,6 +15,7 @@ Categorized with emojis.
  * Apple investments, stocks, business decisions etc. - 💲
 
 # Posts
+- [Screen Edges in iOS 11](https://littlebitesofcocoa.com/310-screen-edges-in-ios-11) - 26.06.2017 - 🔶📱
 - [Ultimate Guide to JSON Parsing With Swift 4](http://benscheirman.com/2017/06/ultimate-guide-to-json-parsing-with-swift-4/) - 26.06.2017 - 🔶4
 - [How to create a Telegram bot with Swift using Vapor on Ubuntu / macOS](https://www.fabriziobrancati.com/posts/how-create-telegram-bot-swift-vapor-ubuntu-macos) - 18.04.2017 - 🔶 🔭
 - [100% Coverage of Edge Cases: How to Safely Parse JSON](http://qualitycoding.org/parse-json-edge-cases/) - 17.04.2017 - 🔶
