@@ -15,6 +15,7 @@ Categorized with emojis.
  * Apple investments, stocks, business decisions etc. - 💲
 
 # Posts
+- [Stack View Custom Spacing](https://useyourloaf.com/blog/stack-view-custom-spacing/) - 16.07.2017 - 🔶📱
 - [User Breakpoints in Xcode](https://pspdfkit.com/blog/2017/user-breakpoints-in-xcode/) - 16.07.2017 - 🛠
 - [SSL certificate pinning in iOS applications](https://www.bugsee.com/blog/ssl-certificate-pinning-in-mobile-applications/) - 26.06.2017 - 🔶📱
 - [How to open Deep Links, Notifications and Shortcuts](https://medium.com/ios-os-x-development/ios-how-to-open-deep-links-notifications-and-shortcuts-253fb38e1696) - 26.06.2017 - 🔶📱
