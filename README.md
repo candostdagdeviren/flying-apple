@@ -146,4 +146,5 @@ Categorized with emojis.
 
 # Shortcuts & Useful commands & Tools
 
+- [How to use Wireless Debugging on Xcode 9](https://medium.com/swiftist/wireless-debugging-xcode-b6e98e26e022) - 21.09.2017 - 🛠
 - [How to show the duration of builds in Xcode](http://tonyarnold.com/2016/04/20/xcode-build-duration.html) - 04.05.2017
