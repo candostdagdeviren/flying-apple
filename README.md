@@ -15,6 +15,7 @@ Categorized with emojis.
  * Apple investments, stocks, business decisions etc. - 💲
 
 # Posts
+- [Generics in Swift 4](https://theswiftpost.co/generics-swift-4/) - 23.09.2017 - 🔶4
 - [WKWebView advanced tutorial (catch JS events, access properties etc...)](https://mislavjavor.github.io/2016-03-08/WKWebView-advanced-tutorial/) - 28.07.2017 - 🔶📱
 - [Stack View Custom Spacing](https://useyourloaf.com/blog/stack-view-custom-spacing/) - 16.07.2017 - 🔶📱
 - [User Breakpoints in Xcode](https://pspdfkit.com/blog/2017/user-breakpoints-in-xcode/) - 16.07.2017 - 🛠
