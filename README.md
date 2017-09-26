@@ -15,6 +15,7 @@ Categorized with emojis.
  * Apple investments, stocks, business decisions etc. - 💲
 
 # Posts
+- [DIY Prisma App with CoreML](https://blog.prismalabs.ai/diy-prisma-app-with-coreml-6b4994cc99e1) - 26.09.2017 - 📱11
 - [Measuring Compile Times in Xcode 9](https://www.jessesquires.com/blog/measuring-compile-times-xcode9/) - 26.09.2017 - 🛠🔶4
 - [Codable Enums](https://littlebitesofcocoa.com/318-codable-enums) - 26.09.2017 - 🔶4
 - [Swift 4 Weak References](https://www.mikeash.com/pyblog/friday-qa-2017-09-22-swift-4-weak-references.html) - 26.09.2017 - 🔶4
