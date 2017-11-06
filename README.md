@@ -15,6 +15,7 @@ Categorized with emojis.
  * Apple investments, stocks, business decisions etc. - 💲
 
 # Posts
+- [@objc Warnings Upgrading To Swift 4](https://useyourloaf.com/blog/objc-warnings-upgrading-to-swift-4) - 06.11.2017 - 🔶4
 - [Dictionary and Set Improvements in Swift 4.0](https://swift.org/blog/dictionary-and-set-improvements/) - 05.10.2017 - 🔶4
 - [DIY Prisma App with CoreML](https://blog.prismalabs.ai/diy-prisma-app-with-coreml-6b4994cc99e1) - 26.09.2017 - 📱11
 - [Measuring Compile Times in Xcode 9](https://www.jessesquires.com/blog/measuring-compile-times-xcode9/) - 26.09.2017 - 🛠🔶4
