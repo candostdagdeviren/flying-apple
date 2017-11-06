@@ -15,6 +15,7 @@ Categorized with emojis.
  * Apple investments, stocks, business decisions etc. - 💲
 
 # Posts
+- [Challenges of Supporting iPhone X](https://pspdfkit.com/blog/2017/supporting-iphone-x/) - 06.11.2017 - 📱
 - [Data Detection in Swift](http://developer.bombbomb.com/blog/2017/10/24/swift-data-detection/) - 06.11.2017 - 🔶
 - [@objc Warnings Upgrading To Swift 4](https://useyourloaf.com/blog/objc-warnings-upgrading-to-swift-4) - 06.11.2017 - 🔶4
 - [Dictionary and Set Improvements in Swift 4.0](https://swift.org/blog/dictionary-and-set-improvements/) - 05.10.2017 - 🔶4
