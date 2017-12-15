@@ -15,6 +15,7 @@ Categorized with emojis.
  * Apple investments, stocks, business decisions etc. - 💲
 
 # Posts
+- [Patterns for Working With Associated Types](https://appventure.me/2017/12/10/patterns-for-working-with-associated-types/) - 15.12.2017 - 🔶
 - [Challenges of Supporting iPhone X](https://pspdfkit.com/blog/2017/supporting-iphone-x/) - 06.11.2017 - 📱
 - [Data Detection in Swift](http://developer.bombbomb.com/blog/2017/10/24/swift-data-detection/) - 06.11.2017 - 🔶
 - [@objc Warnings Upgrading To Swift 4](https://useyourloaf.com/blog/objc-warnings-upgrading-to-swift-4) - 06.11.2017 - 🔶4
