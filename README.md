@@ -15,6 +15,7 @@ Categorized with emojis.
  * Apple investments, stocks, business decisions etc. - 💲
 
 # Posts
+- [It Looks Like You Are Trying to Use a Framework](https://www.bignerdranch.com/blog/it-looks-like-you-are-trying-to-use-a-framework/) - 08.02.2018 - 🔶🔷📱🖥
 - [Dependency Management for iOS projects with the Swift package manager](http://www.ralfebert.de/ios-examples/xcode/ios-dependency-management-with-swift-package-manager/) - 08.02.2018 - 🔶📱
 - [The Ultimate Guide To Mobile In-App Purchases Optimization](https://blog.instabug.com/2018/01/mobile-in-app-purchases/) - 30.01.2018 - 📱🎯
 - [Patterns for Working With Associated Types](https://appventure.me/2017/12/10/patterns-for-working-with-associated-types/) - 15.12.2017 - 🔶
