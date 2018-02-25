@@ -15,6 +15,7 @@ Categorized with emojis.
  * Apple investments, stocks, business decisions etc. - 💲
 
 # Posts
+- [Trusting third party SDKs](https://krausefx.com/blog/trusting-sdks) - 25.02.2018 - 📱🛠
 - [CloudKit: Structured Storage for Mobile Applications](http://www.vldb.org/pvldb/vol11/p540-shraer.pdf) - 10.02.2018 - 🛠
 - [iOS Subscription Groups Explained](https://medium.com/revenuecat-blog/ios-subscription-groups-explained-8c5b8325d4ab) - 08.02.2018 - 📱
 - [It Looks Like You Are Trying to Use a Framework](https://www.bignerdranch.com/blog/it-looks-like-you-are-trying-to-use-a-framework/) - 08.02.2018 - 🔶🔷📱🖥
