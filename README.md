@@ -15,6 +15,7 @@ Categorized with emojis.
  * Apple investments, stocks, business decisions etc. - 💲
 
 # Posts
+- [Xcode’s Secret Performance Tests](http://indiestack.com/2018/02/xcodes-secret-performance-tests/) - 01.03.2018 - 🛠
 - [Trusting third party SDKs](https://krausefx.com/blog/trusting-sdks) - 25.02.2018 - 📱🛠
 - [CloudKit: Structured Storage for Mobile Applications](http://www.vldb.org/pvldb/vol11/p540-shraer.pdf) - 10.02.2018 - 🛠
 - [iOS Subscription Groups Explained](https://medium.com/revenuecat-blog/ios-subscription-groups-explained-8c5b8325d4ab) - 08.02.2018 - 📱
