@@ -15,6 +15,7 @@ Categorized with emojis.
  * Apple investments, stocks, business decisions etc. - 💲
 
 # Posts
+- [Taming Build Variants with Xcode Configuration Files](https://pfandrade.me/blog/taming-build-variants-with-xcode-configuration-files/) - 22.04.2018 - 🛠
 - [Care and Feeding of Xcode Configurations](http://americanexpress.io/care-and-feeding-of-xcode-configurations/) - 22.04.2018 - 🛠
 - [Why you should not name your @IBActions didTapButton](http://blog.cocoafrog.de/2018/04/12/How-to-name-IBActions.html) - 20.04.2018 - 📱🖥
 - [A Collection of Interesting Swift Features](http://jordansmith.io/a-collection-of-interesting-swift-features/) - 24.03.2018 - 🔶
