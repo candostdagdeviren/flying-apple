@@ -15,6 +15,7 @@ Categorized with emojis.
  * Apple investments, stocks, business decisions etc. - 💲
 
 # Posts
+- [Reimplementation of Implicitly Unwrapped Optionals](https://swift.org/blog/iuo/) - 01.05.2018 - 🔶
 - [Simplifying UICollectionViewFlowLayout Delegate Method usage with Functional Programming](http://danieltull.co.uk/blog/2018/04/13/simplifying-uicollectionviewflowlayout-delegate-method-usage-with-functional-programming/) - 22.04.2018 - 📱🔶
 - [Taming Build Variants with Xcode Configuration Files](https://pfandrade.me/blog/taming-build-variants-with-xcode-configuration-files/) - 22.04.2018 - 🛠
 - [Care and Feeding of Xcode Configurations](http://americanexpress.io/care-and-feeding-of-xcode-configurations/) - 22.04.2018 - 🛠
