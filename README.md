@@ -15,6 +15,7 @@ Categorized with emojis.
  * Apple investments, stocks, business decisions etc. - 💲
 
 # Posts
+- [Swift Style Guide](https://google.github.io/swift/) - 04.06.2018 - 🔶
 - [Memory Management and Performance of Value Types](https://swiftrocks.com/memory-management-and-performance-of-value-types.html) - 29.05.2018 - 🔶
 - [The Laws of Core Data](https://davedelong.com/blog/2018/05/09/the-laws-of-core-data/) - 10.05.2018 - 📱🖥
 - [Reimplementation of Implicitly Unwrapped Optionals](https://swift.org/blog/iuo/) - 01.05.2018 - 🔶
