@@ -15,7 +15,8 @@ Categorized with emojis.
  * Apple investments, stocks, business decisions etc. - 💲
 
 # Posts
-- [An iOS alert view with a text field and a “smart” OK button](https://oleb.net/2018/uialertcontroller-textfield/) - 🔶📱
+- [How to Build Swift Compiler-Based Tool? The Step-by-Step Guide](https://www.polidea.com/blog/how-to-build-swift-compiler-based-tool-the-step-by-step-guide/) - 19.08.2018 - 🔶
+- [An iOS alert view with a text field and a “smart” OK button](https://oleb.net/2018/uialertcontroller-textfield/) - 19.08.2018 - 🔶📱
 - [Extension Approach to Keeping UITextFields in Sight](https://medium.com/@kmlong1183/extension-approach-to-keeping-uitextfields-in-sight-9fe8695c2ac6) - 12.08.2018 - 🔶
 - [Swift Style Guide](https://google.github.io/swift/) - 04.06.2018 - 🔶
 - [Memory Management and Performance of Value Types](https://swiftrocks.com/memory-management-and-performance-of-value-types.html) - 29.05.2018 - 🔶
