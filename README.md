@@ -15,6 +15,8 @@ Categorized with emojis.
  * Apple investments, stocks, business decisions etc. - 💲
 
 # Posts
+
+- [Similar Prefixes](http://khanlou.com/2018/08/similar-prefixes/) - 03.02.2019 - 🔶🔷
 - [Debugging Tips&Tricks](https://agostini.tech/2019/01/27/debugging-tipstricks/) - 01.02.2019 - 🛠
 - [Debugging iOS network traffic](https://blog.kulman.sk/debugging-ios-network-traffic/) - 01.02.2019 - 📱
 - [Implement Push Notification easily using CloudKit](https://fluffy.es/push-notification-cloudkit/) - 05.10.2018 - 📱⌚️
