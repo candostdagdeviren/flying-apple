@@ -16,6 +16,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Unit testing retain cycles](https://paul-samuels.com/blog/2018/11/20/unit-testing-retain-cycles) - 03.02.2019 - 🔶
 - [Server-side Swift: Making Canopy](https://medium.com/@mxcl/server-side-swift-making-canopy-2ed586b7f5a9) - 03.02.2019 - 🔭🔶
 - [iOS at Scale: Modularization of the Wayfair App](https://tech.wayfair.com/2018/10/ios-at-scale-modularization-of-the-wayfair-app) - 03.02.2019 - 📱
 - [Xcode & Instruments: Measuring Launch time, CPU Usage, Memory Leaks, Energy Impact and Frame Rate](https://medium.com/@phillfarrugia/xcode-instruments-measuring-launch-time-cpu-usage-memory-leaks-energy-impact-and-frame-rate-1caf8905079f) - 03.02.2019 - 🛠
