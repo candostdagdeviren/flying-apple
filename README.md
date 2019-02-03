@@ -16,6 +16,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Swift Tip: Unexpected Results from a Date Formatter](https://www.objc.io/blog/2018/12/04/unexpected-results-from-a-date-formatter/) - 03.02.2019 - 🔶 
 - [Test doubles in Swift: dummies, fakes, stubs, and spies](https://www.mokacoding.com/blog/swift-test-doubles/) - 03.02.2019 - 🔶
 - [Unit testing retain cycles](https://paul-samuels.com/blog/2018/11/20/unit-testing-retain-cycles) - 03.02.2019 - 🔶
 - [Server-side Swift: Making Canopy](https://medium.com/@mxcl/server-side-swift-making-canopy-2ed586b7f5a9) - 03.02.2019 - 🔭🔶
