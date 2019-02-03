@@ -16,6 +16,7 @@ Categorized with emojis.
 
 # Posts
 
+- [What's inside the Derived Data folder?](http://vojtastavik.com/2018/09/02/what-is-inside-derived-data-xcode) - 03.02.2019 - 📱
 - [Dynamic Features in Swift](https://www.raywenderlich.com/5743-dynamic-features-in-swift) - 03.02.2019 - 🔶
 - [NSPredicate 💬 | Examples Cheatsheet](https://nspredicate.xyz/) - 03.02.2019 - 🔶
 - [Similar Prefixes](http://khanlou.com/2018/08/similar-prefixes/) - 03.02.2019 - 🔶🔷
