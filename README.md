@@ -16,6 +16,7 @@ Categorized with emojis.
 
 # Posts
 
+- [iOS at Scale: Modularization of the Wayfair App](https://tech.wayfair.com/2018/10/ios-at-scale-modularization-of-the-wayfair-app) - 03.02.2019 - 📱
 - [Xcode & Instruments: Measuring Launch time, CPU Usage, Memory Leaks, Energy Impact and Frame Rate](https://medium.com/@phillfarrugia/xcode-instruments-measuring-launch-time-cpu-usage-memory-leaks-energy-impact-and-frame-rate-1caf8905079f) - 03.02.2019 - 🛠
 - [Unleashing the power of asset catalogs and bundles on iOS](https://rambo.codes/ios/2018/10/03/unleashing-the-power-of-asset-catalogs-and-bundles-on-ios.html) - 03.02.2019 - 📱
 - [Multiple Inheritance in Swift](http://www.vadimbulavin.com/multiple-inheritance-swift/) - 03.02.2019 - 🔶
