@@ -16,6 +16,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Multiple Inheritance in Swift](http://www.vadimbulavin.com/multiple-inheritance-swift/) - 03.02.2019 - 🔶
 - [6 Winning Monetisation Strategies](https://blog.novoda.com/6-winning-monetisation-strategies) - 03.02.2019 - 🎯
 - [How to Leverage Apple Pre-order For Your iOS App Launch](https://www.apptamin.com/blog/apple-pre-order-app) - 03.02.2019 - 🎯
 - [Delegates vs Closure Callbacks](https://itnext.io/delegates-vs-closure-callbacks-f36f9029217d) - 03.02.2019 - 🔶🔷
