@@ -16,6 +16,7 @@ Categorized with emojis.
 
 # Posts
 
+- [ Delegates vs Closure Callbacks](https://itnext.io/delegates-vs-closure-callbacks-f36f9029217d) - 03.02.2019 - 🔶🔷
 - [What's inside the Derived Data folder?](http://vojtastavik.com/2018/09/02/what-is-inside-derived-data-xcode) - 03.02.2019 - 📱
 - [Dynamic Features in Swift](https://www.raywenderlich.com/5743-dynamic-features-in-swift) - 03.02.2019 - 🔶
 - [NSPredicate 💬 | Examples Cheatsheet](https://nspredicate.xyz/) - 03.02.2019 - 🔶
