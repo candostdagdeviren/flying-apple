@@ -16,6 +16,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Data-Driven Table Views](http://www.vadimbulavin.com/data-drive-table-views/) - 10.02.2019 - 📱🔶
 - [How to convert your Xcode plugins to Xcode extensions](https://medium.freecodecamp.org/how-to-convert-your-xcode-plugins-to-xcode-extensions-ac90f32ae0e3) - 10.02.2019 - 🛠
 - [Adding External Display Support To Your iOS App Is Ridiculously Easy](https://www.bignerdranch.com/blog/adding-external-display-support-to-your-ios-app-is-ridiculously-easy) - 10.02.2019 - 📱
 - [Swift Tip: Unexpected Results from a Date Formatter](https://www.objc.io/blog/2018/12/04/unexpected-results-from-a-date-formatter/) - 03.02.2019 - 🔶 
