@@ -16,6 +16,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Adding External Display Support To Your iOS App Is Ridiculously Easy](https://www.bignerdranch.com/blog/adding-external-display-support-to-your-ios-app-is-ridiculously-easy) - 10.02.2019 - 📱
 - [Swift Tip: Unexpected Results from a Date Formatter](https://www.objc.io/blog/2018/12/04/unexpected-results-from-a-date-formatter/) - 03.02.2019 - 🔶 
 - [Test doubles in Swift: dummies, fakes, stubs, and spies](https://www.mokacoding.com/blog/swift-test-doubles/) - 03.02.2019 - 🔶
 - [Unit testing retain cycles](https://paul-samuels.com/blog/2018/11/20/unit-testing-retain-cycles) - 03.02.2019 - 🔶
