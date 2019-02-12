@@ -16,6 +16,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Strong-typed Notifications in Swift](https://medium.com/flawless-app-stories/strong-typed-notifications-in-swift-a5de8f7f58e0) - 12.02.2019 - 🔶📱
 - [Unbreakable reference cycles in Swift no one is talking about](https://desiatov.com/swift-reference-cycles/) - 10.02.2019 - 🔶
 - [Data-Driven Table Views](http://www.vadimbulavin.com/data-drive-table-views/) - 10.02.2019 - 📱🔶
 - [How to convert your Xcode plugins to Xcode extensions](https://medium.freecodecamp.org/how-to-convert-your-xcode-plugins-to-xcode-extensions-ac90f32ae0e3) - 10.02.2019 - 🛠
