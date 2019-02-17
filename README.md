@@ -16,6 +16,7 @@ Categorized with emojis.
 
 # Posts
 
+- [Soft Launching Your App - What It Is And Why You Should Do It](https://blog.gummicube.com/2019/01/soft-launching-your-app-what-it-is-and-why-you-should-do-it/) - 17.02.2019 - 🎯
 - [Get Your iOS App Featured on the App Store with These 11 Tips](https://appfigures.com/resources/get-your-ios-app-featured-on-the-app-store) - 17.02.2019 - 🎯
 - [iOS Performance Tricks To Make Your App Feel More Performant](https://www.smashingmagazine.com/2019/02/ios-performance-tricks-apps) - 12.02.2019 - 📱
 - [Strong-typed Notifications in Swift](https://medium.com/flawless-app-stories/strong-typed-notifications-in-swift-a5de8f7f58e0) - 12.02.2019 - 🔶📱
